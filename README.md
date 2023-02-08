@@ -65,7 +65,7 @@ You can use this template to init starter gulp template for your gulp project
 [gulp-sourcemaps](https://www.npmjs.com/) 3.0.0  
 [gulp-strip-css-comments](https://www.npmjs.com/) 2.0.0  
 [gulp-uglify](https://www.npmjs.com/) 3.0.2  
-[gulp-webp](https://www.npmjs.com/) 4.0.1
-[gulp-babel](https://www.npmjs.com/package/gulp-babel) 8.0.0 
+[gulp-webp](https://www.npmjs.com/) 4.0.1  
+[gulp-babel](https://www.npmjs.com/package/gulp-babel) 8.0.0   
 [panini](https://www.npmjs.com/) 1.7.2  
 [sass](https://www.npmjs.com/) 1.56.1  
