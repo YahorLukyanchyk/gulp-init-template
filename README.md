@@ -2,6 +2,7 @@
 You can use this template to init starter gulp template for your gulp project
 
 ## Template structure 
+```bash
 .
 ├── src
 │   ├── assets                            # additional page files
@@ -35,6 +36,7 @@ You can use this template to init starter gulp template for your gulp project
 │
 ├── gulpfile.js                           # gulp config file
 └── package.json                          # contains all info about packages/project
+```
 
 ## How to use:  
 1. Download/copy repository 
