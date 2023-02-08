@@ -51,20 +51,20 @@ You can use this template to init starter gulp template for your gulp project
 
 ## Installed npm packages
 [browser-sync](https://www.npmjs.com/) 2.27.10  
-[del](https://www.npmjs.com/) 6.0.0
-[gulp](https://www.npmjs.com/) 4.0.2
-[gulp-autoprefixer](https://www.npmjs.com/) 8.0.0
-[gulp-cssbeautify](https://www.npmjs.com/) 3.0.1
-[gulp-cssnano](https://www.npmjs.com/) 2.1.3
-[gulp-imagemin](https://www.npmjs.com/) 7.1.0
-[gulp-notify](https://www.npmjs.com/) 4.0.0
-[gulp-plumber](https://www.npmjs.com/) 1.2.1
-[gulp-rename](https://www.npmjs.com/) 2.0.0
-[gulp-rigger](https://www.npmjs.com/) 0.5.8
-[gulp-sass](https://www.npmjs.com/) 5.1.0
-[gulp-sourcemaps](https://www.npmjs.com/) 3.0.0
-[gulp-strip-css-comments](https://www.npmjs.com/) 2.0.0
-[gulp-uglify](https://www.npmjs.com/) 3.0.2
-[gulp-webp](https://www.npmjs.com/) 4.0.1
-[panini](https://www.npmjs.com/) 1.7.2
-[sass](https://www.npmjs.com/) 1.56.1
+[del](https://www.npmjs.com/) 6.0.0  
+[gulp](https://www.npmjs.com/) 4.0.2  
+[gulp-autoprefixer](https://www.npmjs.com/) 8.0.0  
+[gulp-cssbeautify](https://www.npmjs.com/) 3.0.1  
+[gulp-cssnano](https://www.npmjs.com/) 2.1.3  
+[gulp-imagemin](https://www.npmjs.com/) 7.1.0  
+[gulp-notify](https://www.npmjs.com/) 4.0.0  
+[gulp-plumber](https://www.npmjs.com/) 1.2.1  
+[gulp-rename](https://www.npmjs.com/) 2.0.0  
+[gulp-rigger](https://www.npmjs.com/) 0.5.8  
+[gulp-sass](https://www.npmjs.com/) 5.1.0  
+[gulp-sourcemaps](https://www.npmjs.com/) 3.0.0  
+[gulp-strip-css-comments](https://www.npmjs.com/) 2.0.0  
+[gulp-uglify](https://www.npmjs.com/) 3.0.2  
+[gulp-webp](https://www.npmjs.com/) 4.0.1  
+[panini](https://www.npmjs.com/) 1.7.2  
+[sass](https://www.npmjs.com/) 1.56.1  
