@@ -50,7 +50,7 @@ You can use this template to init starter gulp template for your gulp project
 - [npm packages](https://www.npmjs.com/)
 
 ## Installed npm packages
-[browser-sync](https://www.npmjs.com/) 2.27.10
+[browser-sync](https://www.npmjs.com/) 2.27.10  
 [del](https://www.npmjs.com/) 6.0.0
 [gulp](https://www.npmjs.com/) 4.0.2
 [gulp-autoprefixer](https://www.npmjs.com/) 8.0.0
