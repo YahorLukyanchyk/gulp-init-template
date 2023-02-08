@@ -1,4 +1,4 @@
-# Gulp started template
+# Gulp starter template
 You can use this template to init starter gulp template for your gulp project
 
 ## Template structure 
