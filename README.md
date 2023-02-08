@@ -36,6 +36,7 @@ You can use this template to init starter gulp template for your gulp project
 │
 ├── gulpfile.js                           # gulp config file
 └── package.json                          # contains all info about packages/project
+└── README.md
 ```
 
 ## How to use:  
