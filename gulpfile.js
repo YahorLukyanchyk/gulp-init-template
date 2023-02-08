@@ -13,6 +13,7 @@ const uglify = require("gulp-uglify");
 const plumber = require("gulp-plumber");
 const panini = require("panini");
 const imagemin = require("gulp-imagemin");
+const babel = require("gulp-babel");
 const del = require("del");
 const notify = require("gulp-notify");
 const imagewebp = require("gulp-webp");
@@ -128,6 +129,11 @@ function js() {
       })
     )
     .pipe(rigger())
+    .pipe(
+      babel({
+        presets: ["@babel/env"],
+      })
+    )
     .pipe(uglify())
     .pipe(
       rename({
