@@ -15,7 +15,7 @@ You can use this template to init starter gulp template for your gulp project
 │   │   │   │    └── component.js
 │   │   │   │        └── ...
 │   │   │   └── main.js                   # js file which will contain all the code 
-│   │   └── scss                          from /components/*name*.js files
+│   │   └── scss                          # from /components/*name*.js files
 │   │       ├── reset.scss
 │   │       ├── style.scss
 │   │       └── ...
